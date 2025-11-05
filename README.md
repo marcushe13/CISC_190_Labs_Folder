@@ -16,3 +16,5 @@ Each lab folder includes:
 4. Make sure you have the latest JDK installed (e.g., JDK 17)
 5. Run the program through IntelliJ or via terminal:
    
+## Collaboration Acknowledgment
+This project was reviewed and edited by Hao on GitHub.
